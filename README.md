@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rinto N
 
-🎯 **Aspiring [Your Role, e.g., Software Developer / Data Scientist / Linux Enthusiast]**  
+🎯 **Aspiring [Software Developer / Data Scientist / Linux Enthusiast]**  
 💡 Passionate about **open-source**, **Linux**, and building efficient systems.
 
 ---
@@ -25,22 +25,12 @@
 
 ---
 
-## 🧩 Projects
-
-### 🧠 [Project Name 1](projects/project1.md)
-Brief description of what it does, the tech used, and what you learned.
-
-### ⚙️ [Project Name 2](projects/project2.md)
-Another one-line description.
-
----
-
 ## 📫 Contact
 
-- **Email:** [your-email@example.com]  
-- **LinkedIn:** [linkedin.com/in/your-profile](#)  
+- **Email:** [rintonixon@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/rinto-n-096919325](#)  
 - **GitHub:** [github.com/rinto-n](#)
 
 ---
 
-⭐ **Fun fact:** I love tinkering with BIOS and system internals to make Linux run smoother on laptops!
+⭐ **Fun fact:** Every Arch Linux User loves to Customize their OS 💻!
