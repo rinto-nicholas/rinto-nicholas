@@ -27,10 +27,9 @@
 
 ## 📫 Contact
 
-- **Email:** [rintonixon@gmail.com]  
-- **LinkedIn:** [www.linkedin.com/in/rinto-nixon](#)  
-- **GitHub:** [github.com/rinto-n](#)
-
+[![Email](https://img.shields.io/badge/Email-rintonixon%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:rintonixon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rinto_Nixon-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rinto-nixon)
+[![GitHub](https://img.shields.io/badge/GitHub-rinto--n-181717?style=for-the-badge&logo=github)](https://github.com/rinto-n)
 ---
 
 ⭐ **Fun fact:** Every Arch Linux User loves to Customize their OS 💻!
