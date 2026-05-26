@@ -28,7 +28,7 @@
 ## 📫 Contact
 
 - **Email:** [rintonixon@gmail.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/rinto-n-096919325](#)  
+- **LinkedIn:** [www.linkedin.com/in/rinto-nixon](#)  
 - **GitHub:** [github.com/rinto-n](#)
 
 ---
