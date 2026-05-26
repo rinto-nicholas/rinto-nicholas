@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rinto N
 
-🎯 **Aspiring [Software Developer / Data Scientist / Linux Enthusiast]**  
+🎯 **Aspiring [Software Developer / Data Scientist / Linux Enthusiast / Cloud Engineer]**  
 💡 Passionate about **open-source**, **Linux**, and building efficient systems.
 
 ---
