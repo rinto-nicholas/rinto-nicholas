@@ -32,4 +32,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-rinto--n-181717?style=for-the-badge&logo=github)](https://github.com/rinto-n)
 ---
 
+# Student Performance Prediction
+
+## Tech Stack
+Python, Pandas, Scikit-learn, Matplotlib
+
+## Features
+- Data preprocessing
+- Model training
+- Accuracy visualization
+
+## Results
+Achieved 87% prediction accuracy
+
 ⭐ **Fun fact:** Every Arch Linux User loves to Customize their OS 💻!
