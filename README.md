@@ -30,7 +30,7 @@
 [![Email](https://img.shields.io/badge/Email-rintonixon%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:rintonixon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rinto_Nixon-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rinto-nixon)
 [![GitHub](https://img.shields.io/badge/GitHub-rinto--n-181717?style=for-the-badge&logo=github)](https://github.com/rinto-n)
-[![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-rinto--nicholas-007ecc?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/rinto-nicholas)
+[![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-rinto--nicholas-007ecc?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/rinto-nicholas)
 ---
 
 # Student Performance Prediction
